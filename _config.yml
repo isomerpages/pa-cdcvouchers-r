@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pa-cdcvouchers-staging.netlify.app
-prod: https://pa-cdcvouchers-prod.netlify.app
+staging: https://pa-cdcvouchers-r-staging.netlify.app
+prod: https://pa-cdcvouchers-r-prod.netlify.app
 is_government: true
 google_analytics: UA-215064264-1
