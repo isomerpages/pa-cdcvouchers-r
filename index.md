@@ -36,9 +36,9 @@ sections:
       alt: Calling Singaporean households
   - infobar:
       title: Where to spend your CDC Vouchers?
-      description: Visit CDC Vouchers Merchants Go Where to search for the nearest
-        participating hawkers and heartland merchants.
-      button: Search Now
+      description: "[NEW!] Spend $150 CDC Vouchers at participating hawkers/heartland
+        merchants, and the other $150 at participating supermarkets. "
+      button: Find participating shops
       url: https://www.gowhere.gov.sg/cdcvouchersmerchants
   - infobar:
       title: How to donate your CDC Vouchers?
