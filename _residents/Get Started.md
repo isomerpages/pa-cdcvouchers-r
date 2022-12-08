@@ -9,9 +9,7 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 [![Cover banner cdcv2023](/images/Cover%20Banner%20No%20Text.png)](https://go.gov.sg/cdcv)
 
-
-
-From May 2022, every Singaporean household will receive another $100 in CDC Vouchers to help in daily expenses as part of the Household Support Package. This is in addition to the $100 in CDC Vouchers that every Singaporean household is eligible for, announced in Budget 2021. These CDC Vouchers can be used to purchase goods and services at participating heartland merchants and hawkers. 
+In January 2023, every Singaporean household will receive a total of $300 worth of CDC Vouchers, comprising the $200 CDC Vouchers announced at Budget 2022 under the Assurance Package for GST and the additional $100 CDC Vouchers under the October 2022 Cost Of Living Support Package. 
 
  Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2022, and login with Singpass to claim the vouchers.   
 
