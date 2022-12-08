@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-permalink: /about/terms-and-conditions
+permalink: /about/terms-and-conditions/
 description: Terms & Conditions for CDC Vouchers
 ---
 ## Terms & Conditions for CDC Vouchers
@@ -12,7 +12,7 @@ description: Terms & Conditions for CDC Vouchers
     <li>Redeemable at participating merchants displaying the CDC Voucher decal;</li>
     <li>Not valid for purchase of lottery products, petrol, diesel, alcohol or cigarettes;</li>
     <li>Not for resale/ exchangeable for cash or gift vouchers; and</li>
-    <li>Not renewable upon expiry and the expiry date is final. Vouchers will expire on 31 December 2022.</li>
+    <li>Not renewable upon expiry and the expiry date is final. CDC Vouchers 2023 will expire on 31 December 2023.</li>
 			</ol>
 			</li>
 			</ol>
