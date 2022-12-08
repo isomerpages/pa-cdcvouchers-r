@@ -18,8 +18,7 @@ sections:
           url: /merchants/info/
       button: Claim my CDC vouchers 2023
       url: https://go.gov.sg/cdcv
-      title: CDC Vouchers Scheme 2023
-      background: /images/CDCV Banner 7.png
+      background: /images/Cover Banner.png
   - infobar:
       title: Latest Announcement
       description: As announced in Budget 2022, the CDCs will distribute an additional
