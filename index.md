@@ -34,12 +34,14 @@ sections:
       url: https://go.gov.sg/cdcv
       image: /images/PA-CDC-2023-Hero-Image.png
       alt: Calling Singaporean households
-  - infobar:
+  - infopic:
       title: Where to spend your CDC Vouchers?
       description: "[NEW!] Spend $150 CDC Vouchers at participating hawkers/heartland
-        merchants, and the other $150 at participating supermarkets. "
-      button: Find participating shops
-      url: https://www.go.gov.sg/cdcvouchers
+        merchants, and the other $150 at participating supermarkets."
+      button: FIND PARTICIPATING SHOPS
+      url: https://go.gov.sg/cdcvouchers
+      image: /images/PA-CDC-2023-Hero-Image.png
+      alt: Hero image for CDCV2023
   - infobar:
       title: How to donate your CDC Vouchers?
       description: Choose from a list of charities that you may donate your CDC
@@ -58,12 +60,4 @@ sections:
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ
       url: /merchants/faq
-  - infopic:
-      title: Where to spend your CDC Vouchers?
-      description: "[NEW!] Spend $150 CDC Vouchers at participating hawkers/heartland
-        merchants, and the other $150 at participating supermarkets."
-      button: FIND PARTICIPATING SHOPS
-      url: https://go.gov.sg/cdcvouchers
-      image: /images/PA-CDC-2023-Hero-Image.png
-      alt: Hero image for CDCV2023
 ---
