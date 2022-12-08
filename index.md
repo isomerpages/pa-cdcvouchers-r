@@ -39,7 +39,7 @@ sections:
       description: "[NEW!] Spend $150 CDC Vouchers at participating hawkers/heartland
         merchants, and the other $150 at participating supermarkets. "
       button: Find participating shops
-      url: https://www.gowhere.gov.sg/cdcvouchersmerchants
+      url: https://www.go.gov.sg/cdcvouchers
   - infobar:
       title: How to donate your CDC Vouchers?
       description: Choose from a list of charities that you may donate your CDC
