@@ -32,7 +32,7 @@ sections:
         app. Claim your digital CDC Vouchers 2023 easily with just a few taps.
       button: Claim now
       url: https://go.gov.sg/cdcv
-      image: /images/residents/resident banner without button.png
+      image: /images/PA-CDC-2023-Hero-Image.png
       alt: Calling Singaporean households
   - infobar:
       title: Where to spend your CDC Vouchers?
@@ -58,4 +58,12 @@ sections:
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ
       url: /merchants/faq
+  - infopic:
+      title: Where to spend your CDC Vouchers?
+      description: "[NEW!] Spend $150 CDC Vouchers at participating hawkers/heartland
+        merchants, and the other $150 at participating supermarkets."
+      button: FIND PARTICIPATING SHOPS
+      url: https://go.gov.sg/cdcvouchers
+      image: /images/PA-CDC-2023-Hero-Image.png
+      alt: Hero image for CDCV2023
 ---
