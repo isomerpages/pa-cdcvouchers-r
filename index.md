@@ -43,7 +43,7 @@ sections:
       image: /images/PA-CDC-2023-Hero-Image.png
       alt: Hero image for CDCV2023
   - infobar:
-      title: How to donate your CDC Vouchers?
+      title: How to donate your CDC Vouchers 2021 & 2022?
       description: Choose from a list of charities that you may donate your CDC
         Vouchers 2021 and 2022 to.
       button: Find out more
