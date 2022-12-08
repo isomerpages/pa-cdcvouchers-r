@@ -55,7 +55,7 @@ sections:
       url: /residents/faq/
       subtitle: Have questions?
   - infobar:
-      title: Merchants
+      title: Heartland Merchants
       subtitle: Have questions?
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ
