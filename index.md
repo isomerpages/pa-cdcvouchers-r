@@ -21,8 +21,7 @@ sections:
       background: /images/Cover Banner.png
   - infobar:
       title: Latest Announcement
-      description: As announced in Budget 2022, the CDCs will distribute an additional
-        set of $100 CDC vouchers to each Singaporean Household in May 2022.
+      description: In 2023, every Singaporean household will receive $300 CDC Vouchers.
       button: Find out more
       url: /about/about-cdc-vouchers-scheme
   - infopic:
