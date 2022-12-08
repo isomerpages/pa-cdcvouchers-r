@@ -32,7 +32,7 @@ sections:
         app. Claim your digital CDC Vouchers 2023 easily with just a few taps.
       button: Claim now
       url: https://go.gov.sg/cdcv
-      image: /images/PA-CDC-2023-Hero-Image.png
+      image: /images/Cover Banner No Text.png
       alt: Calling Singaporean households
   - infopic:
       title: Where to spend your CDC Vouchers?
