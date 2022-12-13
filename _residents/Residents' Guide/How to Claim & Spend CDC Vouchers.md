@@ -42,9 +42,9 @@ a.bp-button {
 <img src="/images/residents/2023English%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
 
 
-3: **Receive your CDC Vouchers link by SMS.** Forward the SMS to share vouchers with household members.  
+3: **Receive your CDC Voucher link by SMS.** Forward the SMS to share vouchers with household members.  
 
-<img src="/images/Eng_Screengrab%203.png" alt="Step 2" style="width:300px !important;" />
+<img src="/iimages/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
 
 
 4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. 
