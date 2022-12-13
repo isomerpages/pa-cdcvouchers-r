@@ -1,6 +1,6 @@
 ---
 title: How to Claim & Spend CDC Vouchers
-permalink: /residents/how-to-claim-cdc-vouchers
+permalink: /residents/how-to-claim-cdc-vouchers/
 description: ""
 third_nav_title: Residents' Guide
 ---
@@ -33,9 +33,9 @@ a.bp-button {
 
 ## How to claim your CDC Vouchers
 
-1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap into CDC Vouchers 2022. 
+1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap on CDC Vouchers 2023. 
 
-<img src="/images/Eng_Screengrab%201.png" alt="Step 1" style="width:300px !important;" />
+<img src="/images/residents/2023English%20campaign%20listing%20(Mobile%20Mock)%20(1).png" alt="Step 1" style="width:300px !important;" />
 
 2: **Log in using Singpass.** Only one household member needs to do this on behalf of your household.
 
