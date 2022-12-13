@@ -244,9 +244,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 	<li>
     <input type="checkbox" id="accordion20">
-    <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Do I get a refund if the purchase (e.g. $8) is less than the amount of digital vouchers that I want to spend (e.g. $10)?</span></label>
+    <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Do I get my change back if the purchase (e.g. $8) is less than the amount of digital vouchers that I want to spend (e.g. $10)?</span></label>
     <div>
-			<p>Similar to other vouchers like supermarket vouchers, there will be no change / refund provided if the purchase amount is less than the vouchers used. </p>
+			<p>Similar to other vouchers like supermarket vouchers, there will be no change provided if the purchase amount is less than the vouchers used. </p>
 			<p>For example, if the cost of item is $6,
 				
 <table style="border-collapse: collapse; border-style: solid;" border="1" cellspacing="1" cellpadding="1">
@@ -259,7 +259,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 </tr>
 <tr>
 <td style="width: 260px;">$7.00</td>
-<td style="width: 284px;">No refund will be issued by merchant</td>
+<td style="width: 284px;">No change will be issued by merchant</td>
 </tr>
 <tr>
 <td style="width: 260px;">$5.00</td>
