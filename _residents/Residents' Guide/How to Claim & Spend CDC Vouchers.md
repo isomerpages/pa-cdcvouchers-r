@@ -31,7 +31,7 @@ a.bp-button {
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/HClIpbvx36c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
-## How to claim your CDC Vouchers
+## How to claim your CDC Vouchers 2023
 
 1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap on CDC Vouchers 2023. 
 
@@ -46,6 +46,21 @@ a.bp-button {
 
 <img src="/iimages/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
 
+
+## How to spend your CDC Vouchers 2023
+
+1: **Select which CDC Vouchers you want to use. 
+
+<img src="/images/residents/2023Voucher%20view%20landing%20page%20(English).png" alt="Step 1" style="width:300px !important;" />
+
+2: **Log in with Singpass.** Only one household member needs to do this on behalf of the household.
+
+<img src="/images/residents/2023English%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
+
+
+3: **Receive your CDC Voucher link by SMS.** Forward the SMS to share vouchers with household members.  
+
+<img src="/iimages/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
 
 4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. 
 
