@@ -55,7 +55,7 @@ a.bp-button {
 
 <img src="/images/residents/Voucher%20SMS%20(Mobile%20Mock)%20(Tamil).png" alt="Step 3" style="width:300px !important;" />
 
-## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பபயன்படுத்துவது எப்படி
+## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பயன்படுத்துவது எப்படி
 
 1: **நீங்கள் பயன்படுத்த விரும்பும் பற்றுச்சீட்டுகளைத் தேர்ந்தெடுங்கள்.**<img src="/images/residents/select%20vouchers%20page%20tamil.png" alt="Step 4" style="width:600px !important;" />
 
