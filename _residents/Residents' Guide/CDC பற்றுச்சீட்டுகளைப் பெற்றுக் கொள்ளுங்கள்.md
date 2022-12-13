@@ -65,11 +65,11 @@ a.bp-button {
 
 2: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
 
-<img src="/images/residents/select%20vouchers%20tamil.png" alt="Step 4" style="width:600px !important;" />
+<img src="/images/residents/select%20vouchers%20tamil.png" alt="Step 4" style="width:300px !important;" />
 
 3: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
 
-<img src="/images/residents/select%20vouchers%20page%20tamil.png" alt="Step 4" style="width:600px !important;" />
+<img src="/images/residents/qr%20page%20tamil.png" alt="Step 4" style="width:300px !important;" />
 
 
 பற்றுச்சீட்டுகள் 31 டிசம்பர் 2022 வரை செல்லுபடியாகும்.
