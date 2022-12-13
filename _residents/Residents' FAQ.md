@@ -103,7 +103,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">When do the CDC Vouchers 2023 expire? </span></label>
     <div>
- 			<p>The CDC Vouchers Scheme 2023 will be valid until 31 December 2022. More details on the upcoming tranches will be announced in due course.</p>
+ 			<p>The CDC Vouchers Scheme 2023 will be valid until 31 December 2023. More details on the upcoming tranches will be announced in due course.</p>
 	</div>
   </li>
 </ul>
