@@ -25,7 +25,7 @@ CDC Vouchers 2023 are valid till 31 December 2023.
 <td style="vertical-align: middle;"><p><strong>$150 to spend at participating heartland merchants and hawkers</strong></p></td>
 </tr>
 <tr>
-<td><img src="/images/residents/Icon%202.png" alt="Claim your digital vouchers easily" style="width:125px !important;"/></td>
+<td><img src="/images/heartland%20voucher%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"/></td>
 <td style="vertical-align: middle;"><p><strong>[New!] $150 to spend at participating supermarkets</strong></p></td>
 </tr>
 	<tr>
