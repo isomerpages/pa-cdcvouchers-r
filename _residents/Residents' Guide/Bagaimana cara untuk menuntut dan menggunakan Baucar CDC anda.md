@@ -45,7 +45,7 @@ a.bp-button {
 
 3: **Terima pautan Baucar CDC anda melalui SMS.** Kongsikan pautan baucar dengan ahli anggota keluarga anda.
 
-<img src="/images/residents/Mal_Screengrab%203.png" alt="Step 3" style="width:300px !important;" />
+<img src="/images/residents/Malay%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 3" style="width:300px !important;" />
 
 4: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
 <img src="/images/residents/Mal_Screengrab%204.png" alt="Step 4" style="width:300px !important;" />
