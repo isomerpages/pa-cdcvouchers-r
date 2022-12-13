@@ -64,7 +64,7 @@ a.bp-button {
 
 <img src="/images/residents/select%20vouchers%20tamil.png" alt="Step 4" style="width:300px !important;" />
 
-3: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
+3: **கடைக்காரரிடம் QR குறியீட்டைக் காட்டுங்கள்.** அவர் குறியீட்டை ஸ்கேன் செய்து பரிவர்த்தனையை நிறைவு செய்வார்.
 
 <img src="/images/residents/qr%20page%20tamil.png" alt="Step 4" style="width:300px !important;" />
 
