@@ -326,12 +326,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion27">
-    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the vouchers to low-income families or migrant workers?</span></label>
+    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         Previously the CDCs provided an option for residents to donate their CDC Vouchers 2021 and 2022. Similarly, can I donate my 2023 vouchers for a good cause?</span></label>
     <div>
-			<p>Currently there is no official arrangement to donate the CDC Vouchers.</p>
-
-<p>However, residents may choose to share their voucher link with others.  Click on “share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram.  Do note that sharing your voucher link constitutes providing them with access to your voucher.  Anyone with the voucher link can use your vouchers.
-			</p>
+			<p>The option to donate the CDC Vouchers 2023 is currently not available.  As this Scheme is designed to help Singaporean households in cushioning the impact of the Goods and Service Tax increase and support participating heartland merchants and hawkers, we encourage you to spend your CDC Vouchers.</p>
     </div>
   </li>
 <li>
