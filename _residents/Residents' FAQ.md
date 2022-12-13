@@ -35,20 +35,21 @@ In Jan 2023, every Singaporean household can claim $300 in CDC Vouchers. The val
       <p>
 				         All Singaporean households will receive a notification letter on how to claim their CDC vouchers at [go.gov.sg/cdcv](http://go.gov.sg/cdcv)
 
-Only one member representing the household needs to make the claim digitally via Singpass at [go.gov.sg/cdcv](http://go.gov.sg/cdcv).
-				</p>
+Only one member representing the household needs to make the claim digitally via Singpass at [go.gov.sg/cdcv](http://go.gov.sg/cdcv).</p>
 		    </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Why are the CDC vouchers in fixed denominations?</span></label>
+    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Why are the CDC vouchers in fixed denominations? / Can we choose or key in the exact amount of vouchers we want to use (for example, $1.50)?</span></label>
     <div>
-			<p>The vouchers are in fixed denominations because it is less confusing for residents, especially the digitally less-savvy, and reduces the chance for errors to occur when residents key in the amount.  It enables merchants to receive their reimbursement faster.</p>
+			<p>The vouchers are in fixed denominations because it is less confusing for residents, especially the digitally less-savvy, and reduces the chance for errors to occur when residents key in the amount.</p>
 <p>
-The CDCs and Govtech had several rounds of consultations with residents and merchants to gather feedback on the design of the denominations. The fixed denominations of $2, $5 and $10 allow residents to make purchases at different heartland shops and hawkers. For example, residents may patronise mini-marts or mom-and-pop shops, to purchase groceries or other essential household items, and services such as dental clinics, or hair salons. The larger denominations ($5 and $10) will come in handy at these shops, and residents can also use them to have meals with family members or friends.	</p>
+The CDCs and Govtech had several rounds of consultations with residents and merchants to gather feedback on the design of the denominations.</p><p>For the CDC Vouchers to be used at heartland merchants and hawkers, the fixed denominations of $2, $5 and $10 allow residents to make purchases at different heartland shops and hawkers. For example, residents may patronise mini-marts or mom-and-pop shops, to purchase groceries or other essential household items, and services such as dental clinics, or hair salons.</p>
+			<p>
+For the CDC Vouchers to be used at supermarkets, the larger denominations ($5 and $10) will come in handy as the purchase amounts are typically larger due to the nature of goods sold at supermarkets.
+</p>
     </div>
-  </li>
-    
+  </li>  
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can the vouchers be shared with my household members?</span></label>
