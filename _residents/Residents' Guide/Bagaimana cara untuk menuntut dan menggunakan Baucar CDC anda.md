@@ -53,7 +53,7 @@ a.bp-button {
 <img src="/images//residents/select%20vouchers%20malay.png" alt="Step 4" style="width:600px !important;" />
 
 2: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
-<img src="/images//residents/select%20vouchers%20malay.png" alt="Step 4" style="width:600px !important;" />
+<img src="/images/residents/select%20vouchers%20malay%20-%202.png" alt="Step 4" style="width:300px !important;" />
 
 3: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
 <img src="/images//residents/select%20vouchers%20malay.png" alt="Step 4" style="width:600px !important;" />
