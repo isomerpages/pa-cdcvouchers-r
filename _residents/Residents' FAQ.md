@@ -212,7 +212,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 
 <p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the vouchers. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.</p>
 			
-<p>To find out the location of your nearest CC, please key in your postal code in the  <a href="https://www.pa.gov.sg/our-network/community-development-councils" target="_blank"><strong>district locator</strong></a> (scroll to the bottom of the page to "Find out your district's information here").</a>
+<p>To find out the location of your nearest CC, please key in your postal code in the  <a href="https://www.pa.gov.sg/our-network/community-development-councils" target="_blank"><strong>district locator</strong></a> (scroll to the bottom of the page to "Find out your district's information here").
 			</p>
     </div>
   </li>
