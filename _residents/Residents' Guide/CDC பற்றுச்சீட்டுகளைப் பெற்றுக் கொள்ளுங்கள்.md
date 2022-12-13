@@ -62,9 +62,15 @@ a.bp-button {
 
 <img src="/images/residents/select%20vouchers%20page%20tamil.png" alt="Step 4" style="width:600px !important;" />
 
-பங்குபெறும் உணவங்காடிக் கடைகளிலும் குடியிருப்பு வட்டார வணிகக் கடைகளிலும் இந்தச் சின்னம் இருக்கிறதா எனப் பாருங்கள்!
 
-![Merchant's Decal](/images/merchants-decal-500.jpg)
+2: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
+
+<img src="/images/residents/select%20vouchers%20page%20tamil.png" alt="Step 4" style="width:600px !important;" />
+
+3: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
+
+<img src="/images/residents/select%20vouchers%20page%20tamil.png" alt="Step 4" style="width:600px !important;" />
+
 
 பற்றுச்சீட்டுகள் 31 டிசம்பர் 2022 வரை செல்லுபடியாகும்.
 
