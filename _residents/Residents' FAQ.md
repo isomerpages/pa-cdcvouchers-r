@@ -239,7 +239,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion19">
     <label for="accordion19"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Is there a maximum number of vouchers I can spend per purchase?</span></label>
     <div>
-			<p>There is no limit to the value of vouchers that can be spent at any one time.  However, a maximum of 15 digital vouchers can be  stacked and used per transaction to ensure the QR code remains scannable by the merchants.  			</p>
+			<p>There is no limit to the number you can spend per purchase.  However, you can only stack a maximum of 15 digital vouchers per QR code to ensure that the QR code remains scannable by merchants. </p>
     </div>
   </li>
 	<li>
@@ -312,7 +312,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion25">
     <label for="accordion25"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to use the CDC vouchers online?</span></label>
     <div>
-			<p>The vouchers may not be used for e-commerce or online transactions. The vouchers are meant to be used at participating heartland merchants and hawkers.
+			<p>The vouchers cannot be used for e-commerce or online transactions.
 			</p>
     </div>
   </li>
