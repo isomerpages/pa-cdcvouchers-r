@@ -100,7 +100,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
   </li>
 <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">When do the CDC Vouchers 203 expire? </span></label>
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">When do the CDC Vouchers 2023 expire? </span></label>
     <div>
  			<p>The CDC Vouchers Scheme 2023 will be valid until 31 December 2022. More details on the upcoming tranches will be announced in due course.</p>
 	</div>
@@ -114,7 +114,7 @@ To ensure that the digital system caters to both digitally savvy and digitally l
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can residents claim and spend their CDC Vouchers 2022 (and 2021, if still not fully spent)?</span></label>
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I claim or retrieve my household's CDC Vouchers? Do I need to claim twice?</span></label>
     <div>
 			<p>Only one Singaporean household member with a Singpass account needs to claim the vouchers on behalf of the entire household.</p>
 			<p>
