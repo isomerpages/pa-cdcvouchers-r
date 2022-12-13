@@ -291,7 +291,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion23">
     <label for="accordion23"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens if I accidentally misplaced my printed vouchers?</span></label>
     <div>
-						<p>Any misplaced vouchers may be used by anyone who picked it up. You may request for a re-print at the CCs if the vouchers have been partially used or have not been used yet, but a new set of vouchers will not be issued to replace the existing set. Recipients are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash.</p> 
+						<p>Any misplaced vouchers may be used by anyone who picks it up. You may request for a re-print of your remaining vouchers at the CCs. However, a new set of $300 vouchers will not be issued. Recipients are advised to exercise personal responsibility in safekeeping their vouchers as they are equivalent to cash.</p> 
 			<p>Please note that the vouchers are non-refundable and/or non-exchangeable.
 			</p>
     </div>
