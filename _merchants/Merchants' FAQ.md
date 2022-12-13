@@ -1,6 +1,6 @@
 ---
 title: Merchants' FAQ
-permalink: /merchants/faq
+permalink: /merchants/faq/
 description: Merchants' FAQ
 ---
 <span id="cdcv_page_top"></span>
@@ -12,16 +12,11 @@ description: Merchants' FAQ
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme?</span></label>
-    <div>
-     <p><strong>CDC Vouchers Scheme 2022</strong></p>
-		      <p>The Finance Minister Mr Lawrence Wong announced at Budget 2022 that as part of the Household Support Package, the Community Development Councils (CDCs) will be given three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.</p>
+    <div><p>
+Deputy Prime Minister (DPM) and Finance Minister Mr Lawrence Wong announced at Budget 2022 that each Singaporean household will receive $200 in Community Development Council (CDC) Vouchers in 2023 and 2024 as part of the $6.6 billion Assurance Package to help Singaporeans cushion the impact of the Good & Services Tax (GST) increase.</p>
 			<p>
-In May 2022, all Singaporean households can each receive $100 in CDC vouchers to help in daily expenses as part of the Household Support Package. You can use the vouchers to purchase goods and services from participating hawkers and heartland merchants.</p>
-			<p><strong>CDC Vouchers Scheme 2021</strong></p>
-			<p>
-						Deputy Prime Minister and then Finance Minister Mr Heng Swee Keat launched the CDC Vouchers Scheme in June 2020 and January 2021 respectively to help Singaporean lower-income households defray their cost of living and at the same time, to support hawkers and heartland merchants affected by Covid-19 pandemic.  Each identified Singaporean lower-income household received $50 worth of CDC Vouchers in June 2020 and January 2021. </p>
-			<p>
-In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swee Keat announced the $130million CDC Vouchers Scheme to thank Singaporeans for their sense of solidarity and to support heartland merchants and hawkers.  Each Singaporean household will receive $100 CDC vouchers and the scheme will benefit up to 1.3 million Singaporean households. </p>
+Further, DPM also announced that every Singaporean household will get an additional S$100 CDC vouchers in January 2023 as part of the new $1.5 billion support package announced on 14 October 2022. This is on top of the S$200 CDC voucher announced at Budget 2022.</p>
+			<p>In Jan 2023, every Singaporean household can claim $300 in CDC Vouchers. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2023 to claim and spend their CDC Vouchers 2023. </p>
     </div>
 	</li>  
   <li>
@@ -45,8 +40,7 @@ In Budget 2021, Deputy Prime Minister and then Minister for Finance, Mr Heng Swe
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What are the steps to come onboard the scheme?</span></label>
     <div>
-      <p>
-				There are two (2) key stages of participation:
+      <p>[Applicable for those who wish to self-serve]<br>There are two (2) key stages of participation:
       </p>
 			<p>1) Stage 1 - Register your interest with<br />
 a) the CDC Ambassadors, or<br />
@@ -78,7 +72,7 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How will customers know that they can use the vouchers at my place of business?</span></label>
     <div>
-			<p>All participating merchants and hawkers will be featured on go.gov.sg/cdcvouchersmerchants so residents can conveniently search for shops nearest to them. You are required to prominently display the CDC Voucher decal at their stall / shop front for visibility to customers.</p>
+			<p>All participating merchants and hawkers will be featured on go.gov.sg/cdcvouchers so residents can conveniently search for shops nearest to them. You are required to prominently display the CDC Voucher decal at your stall / shop front for visibility to customers.</p>
     </div>	
 	  </li>
 <li>
@@ -99,7 +93,7 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 		    <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
 				<div>
-	<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
+	<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using <a href="https://pa.gov.sg" target="_blank">the district locator</a> at the bottom of the People's Association website. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
 <table border="0" cellspacing="2" cellpadding="2">
     <tbody>
         <tr>
