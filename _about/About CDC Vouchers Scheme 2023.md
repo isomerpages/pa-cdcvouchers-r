@@ -9,7 +9,7 @@ In addition, DPM also announced that every Singaporean household will get an add
 
 In January 2023, every Singaporean household can claim $300 in CDC Vouchers. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2023 to claim and spend their CDC Vouchers 2023.
 
-[Learn](https://vouchers.cdc.gov.sg/residents/info) how you can claim your CDC Vouchers 2023.
+[Learn](/residents/info) how you can claim your CDC Vouchers 2023.
 
 
 **Brought to you by:**
