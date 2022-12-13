@@ -9,9 +9,9 @@ description: CDC Vouchers Scheme for Singapore residents - Every Singaporean
 
 [![Cover banner cdcv2023](/images/Cover%20Banner%20No%20Text.png)](https://go.gov.sg/cdcv)
 
-In January 2023, every Singaporean household will receive a total of $300 worth of CDC Vouchers, comprising the $200 CDC Vouchers announced at Budget 2022 under the Assurance Package for GST and the additional $100 CDC Vouchers under the October 2022 Cost Of Living Support Package. 
+In January 2023, every Singaporean household will receive a total of $300 worth of CDC Vouchers, comprising the $200 CDC Vouchers announced at Budget 2022 under the Assurance Package for GST and the additional $100 CDC Vouchers under the October 2022 Cost of Living Support Package. 
 
- Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2023, and login with Singpass to claim the vouchers.      
+ Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2023, and login with Singpass to claim the vouchers.  <br>    
 CDC Vouchers 2023 are valid till 31 December 2023. 
 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
