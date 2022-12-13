@@ -33,9 +33,9 @@ In Jan 2023, every Singaporean household can claim $300 in CDC Vouchers. The val
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
     <div>
       <p>
-				         All Singaporean households will receive a notification letter on how to claim their CDC vouchers at [go.gov.sg/cdcv](http://go.gov.sg/cdcv)
+				         All Singaporean households will receive a notification letter on how to claim their CDC vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>
 
-Only one member representing the household needs to make the claim digitally via Singpass at [go.gov.sg/cdcv](http://go.gov.sg/cdcv).</p>
+Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>.</p>
 		    </div>
   </li>
   <li>
