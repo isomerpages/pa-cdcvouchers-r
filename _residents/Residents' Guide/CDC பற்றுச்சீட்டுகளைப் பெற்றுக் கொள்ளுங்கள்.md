@@ -54,7 +54,7 @@ a.bp-button {
 
 3: **உங்களுக்கான CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெறுங்கள்.** பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுந்தகவலை அவர்களுக்கு அனுப்பி வையுங்கள். 
 
-<img src="/images/residents/Tam_Screengrab%203.png" alt="Step 3" style="width:300px !important;" />
+<img src="/images/residents/Voucher%20SMS%20(Mobile%20Mock)%20(Tamil).png" alt="Step 3" style="width:300px !important;" />
 
 ## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பபயன்படுத்துவது எப்படி
 
