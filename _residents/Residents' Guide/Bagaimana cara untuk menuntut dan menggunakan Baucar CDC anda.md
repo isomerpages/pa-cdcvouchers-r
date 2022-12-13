@@ -34,14 +34,14 @@ a.bp-button {
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
-1: Lungsuri laman **[go.gov.sg/cdcv](https://go.gov.sg/cdcv)** dan ketik pada Baucar CDC 2022. 
+1: Lungsuri laman **[go.gov.sg/cdcv](https://go.gov.sg/cdcv)** dan ketik pada Baucar CDC 2023. 
 
 <img src="/images/residents/Malay%20campaign%20listing%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
 
 
 2: **Log masuk dengan Singpass.** Hanya seorang sahaja anggota keluarga yang perlu melakukannya bagi pihak isi rumah.
 
-<img src="/images/residents/Mal_Screengrab%202.png" alt="Step 2" style="width:300px !important;" />
+<img src="/images/residents/Malay%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
 
 3: **Terima pautan Baucar CDC anda melalui SMS.** Kongsikan pautan baucar dengan ahli anggota keluarga anda.
 
