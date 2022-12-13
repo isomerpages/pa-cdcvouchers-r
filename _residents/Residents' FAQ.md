@@ -231,6 +231,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 			<p> Yes.  The CDC vouchers can be used at all participating heartland merchants, hawkers and supermarkets island wide. You can visit go.gov.sg/cdcvouchers to find out where to spend your CDC Vouchers.</p> 
 			<p>You can also identify participating heartland merchants and hawkers with the teal-coloured “CDC Voucher” decal displayed at shopfronts. Reference of the CDC Voucher decal:
 				<br><img src="/images/merchants-decal-500.jpg" alt="CDC Vouchers Decal" style="width:400px !important;"/>
+			</p><p>
+			Similarly, you can also identify participating supermarkets with the yellow-coloured “CDC Supermarket Voucher” decal displayed at storefronts.  Reference of the CDC Supermarket Voucher decal:
+			<br><img src="/images/yellow%20decal.jpg" alt="CDC Vouchers Supermarket Decal" style="width:400px !important;"/>
 			</p>
     </div>
   </li>
