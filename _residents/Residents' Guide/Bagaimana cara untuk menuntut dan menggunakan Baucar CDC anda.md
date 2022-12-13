@@ -1,6 +1,6 @@
 ---
 title: Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
-permalink: /residents/how-to-claim-cdc-vouchers-malay
+permalink: /residents/how-to-claim-cdc-vouchers-malay/
 description: ""
 third_nav_title: Residents' Guide
 ---
@@ -36,7 +36,8 @@ a.bp-button {
 
 1: Lungsuri laman **[go.gov.sg/cdcv](https://go.gov.sg/cdcv)** dan ketik pada Baucar CDC 2022. 
 
-<img src="/images/residents/Mal_Screengrab%201.png" alt="Step 1" style="width:300px !important;" />
+<img src="/images/residents/Malay%20campaign%20listing%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
+
 
 2: **Log masuk dengan Singpass.** Hanya seorang sahaja anggota keluarga yang perlu melakukannya bagi pihak isi rumah.
 
