@@ -16,8 +16,6 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      button: Claim my CDC vouchers 2023
-      url: https://go.gov.sg/cdcv
       background: /images/Cover Banner.png
   - infobar:
       title: Latest Announcement
