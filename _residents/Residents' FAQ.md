@@ -116,14 +116,14 @@ To ensure that the digital system caters to both digitally savvy and digitally l
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I claim or retrieve my household's CDC Vouchers? Do I need to claim twice?</span></label>
     <div>
-			<p>Only one Singaporean household member with a Singpass account needs to claim the vouchers on behalf of the entire household.</p>
+			<p>Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>.</p>
 			<p>
-1) Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2022, or CDC Vouchers 2021, and login with Singpass to claim your respective vouchers. </p>
+1) Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2023 and login with Singpass to claim your vouchers. </p>
 			<p>
 2) You may also use <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
 			</p>
 			<p>
-3) Do note that the SMS voucher link for the CDC Vouchers 2022 is different from the voucher link for the CDC Vouchers 2021. Both sets of vouchers can be used till 31 December 2022. You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $100 CDC Vouchers. </p>
+3) There will only be 1 voucher link sent via SMS, that will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. These vouchers can be used till 31 December 2023.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $300 CDC Vouchers. </p>
     </div>
   </li>
 				<li>
