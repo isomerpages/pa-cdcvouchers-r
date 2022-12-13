@@ -61,10 +61,6 @@ a.bp-button {
 
 <img src="/images/residents/2023QR%20page%20English.png" alt="Step 4" style="width:300px !important;" />
 
-Look out for this decal at participating hawkers and heartland merchants!
-
-![Merchant's Decal](/images/merchants-decal-500.jpg)
-
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
 
