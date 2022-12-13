@@ -59,7 +59,7 @@ a.bp-button {
 <img src="/images/residents/qr%20page%20malay.png" alt="Step 4" style="width:300px !important;" />
 
 
-Baucar ini sah sehingga 31 Disember 2022.
+Baucar ini sah sehingga 31 Disember 2023.
 
 Jika anda tidak mempunyai telefon bijak atau Singpass, dan untuk pertanyaan dan bantuan selanjutnya, kunjungi Balai Rakyat/Kelab Masyarakat terdekat anda dari 10 pagi hingga 6 petang (kecuali pada cuti umum).
 
