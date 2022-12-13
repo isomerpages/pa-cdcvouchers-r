@@ -145,12 +145,10 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers 2021 earlier, will I need to claim the CDC Vouchers 2022?</span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers from previous tranches (2021 and/or 2022), do I need to claim the CDC Vouchers 2023?</span></label>
     <div>
-			<p>Yes you will need to claim your CDC Vouchers 2022.</p>
-			<p>Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2022, and login with Singpass to claim your vouchers.</p>
-
-<p>You will then receive a new unique voucher link that is different from the one received for the CDC Vouchers announced in December 2021. Only one member of the household is required to claim on behalf of the household.</p>
+			<p>Yes, the CDC Vouchers Scheme 2023 is a new tranche.  The vouchers from the previous two tranches have expired on 31 December 2022.</p>
+			<p>Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2023, and login with Singpass to claim your vouchers.</p>
     </div>
   </li>
 	<li>
