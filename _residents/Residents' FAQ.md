@@ -192,9 +192,6 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>To retrieve the voucher link for CDC Vouchers 2023, please visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher link sent to you via SMS. 
 			</p>
-			<p>
-				Please note that the SMS voucher links for both CDC Vouchers 2021 and CDC Vouchers 2022 are different.
-			</p>
     </div>
   </li>
 		<li>
