@@ -47,13 +47,17 @@ a.bp-button {
 
 <img src="/images/residents/Malay%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 3" style="width:300px !important;" />
 
-4: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
+## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
+
+1: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
 <img src="/images//residents/select%20vouchers%20malay.png" alt="Step 4" style="width:600px !important;" />
 
+2: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
+<img src="/images//residents/select%20vouchers%20malay.png" alt="Step 4" style="width:600px !important;" />
 
-Perhatikan pelekat yang ada pada penjaja dan pedagang yang mengambil bahagian di kejiranan anda!
+3: **Pilih jumlah yang anda ingin gunakan** dan tunjukkan kod QR untuk diimbas kepada penjaja atau pedagang yang mengambil bahaian di kejiranan anda. 
+<img src="/images//residents/select%20vouchers%20malay.png" alt="Step 4" style="width:600px !important;" />
 
-![Merchant's Decal](/images/merchants-decal-500.jpg)
 
 Baucar ini sah sehingga 31 Disember 2022.
 
