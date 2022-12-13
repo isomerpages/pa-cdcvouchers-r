@@ -208,11 +208,11 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion17">
     <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I do not have a mobile phone or digital device. What should I do?</span></label>
     <div>
-			<p>Please kindly seek help from your family members for assistance to claim the vouchers. </p>
+			<p>Please seek help from your family members for assistance to claim the vouchers. </p>
 
-<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.</p>
+<p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the vouchers. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.</p>
 			
-<p>To find out the location of your nearest CC, please key in your postal code using  <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank"><strong>CDC's district locator</strong>.</a>
+<p>To find out the location of your nearest CC, please key in your postal code in the  <a href="https://www.pa.gov.sg/our-network/community-development-councils" target="_blank"><strong>district locator</strong></a> (scroll to the bottom of the page to "Find out your district's information here").</a>
 			</p>
     </div>
   </li>
