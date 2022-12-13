@@ -272,9 +272,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 	<li>
     <input type="checkbox" id="accordion21">
-    <label for="accordion21"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Do I need to download a mobile application to scan the merchant QR code to make payment?</span></label>
+    <label for="accordion21"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I spend the vouchers? Do I need to download a mobile application to scan the merchant QR code to make payment?</span></label>
     <div>
-			<p>There is no need for residents to download any mobile application. Simply claim your vouchers by going to <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>. The voucher link will be sent to your verified mobile number. You can then use the voucher by presenting the QR code vouchers at participating hawkers and heartland merchants identified by the CDC Vouchers decal.
+			<p>There is no need for residents to download any mobile application. Simply claim your vouchers by going to <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>. The voucher link will be sent to your verified mobile number. You can then use the voucher by presenting the QR code vouchers at participating hawkers and heartland merchants, or participating supermarkets identified by the CDC Vouchers teal or yellow decal.
 			</p>
     </div>
   </li>
