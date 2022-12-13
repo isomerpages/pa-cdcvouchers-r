@@ -64,7 +64,6 @@ Look out for this decal at participating hawkers and heartland merchants!
 
 ![Merchant's Decal](/images/merchants-decal-500.jpg)
 
-You may visit the same link at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> to claim your household's CDC Vouchers 2021 if you have not already done so. Both CDC Vouchers 2021 and 2022 are valid till 31 December 2022.
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
 
