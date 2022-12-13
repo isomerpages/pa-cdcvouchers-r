@@ -226,7 +226,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion18">
-    <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Which merchants can I spend my vouchers at?</span></label>
+    <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to use the CDC Vouchers across all districts beyond my residential constituency? </span></label>
     <div>
 			<p>The CDC vouchers can be used at participating heartland merchants and hawkers.  Look out for the CDC Vouchers decal displayed at the merchant/hawker stall shopfront to know where the vouchers can be used at, and also take this opportunity to explore and get to know your neighbourhood.</p> 
 			<p>You can also visit <a href="https://www.gowhere.gov.sg/cdcvouchersmerchants" target="_blank"><strong>go.gov.sg/cdcvouchersmerchants</strong></a> to search for the nearest participating hawkers and heartland merchants.
