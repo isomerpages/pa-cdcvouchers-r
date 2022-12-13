@@ -47,8 +47,7 @@ a.bp-button {
 2023ஆம் ஆண்டுக்கான சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் மீது தட்டுங்கள் 
 <img src="/images/residents/campaign%20listing%20(Mobile%20Mock)%20(Tamil).png" alt="Step 1" style="width:300px !important;" />
 
-2: <strong>சிங்கபாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள்.</strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.  
-
+2: <strong>சிங்பாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள். </strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.  
 <img src="/images/residents/Campaign%20sign%20up%20(Mobile%20Mock)%20(Tamil).png" alt="Step 2" style="width:300px !important;" />
 
 
