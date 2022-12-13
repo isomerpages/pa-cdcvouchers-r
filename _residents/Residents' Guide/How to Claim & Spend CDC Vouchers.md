@@ -53,16 +53,12 @@ a.bp-button {
 
 <img src="/images/residents/2023Voucher%20view%20landing%20page%20(English).png" alt="Step 1" style="width:300px !important;" />
 
-2: **Log in with Singpass.** Only one household member needs to do this on behalf of the household.
-<img src="/images/residents/2023English%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
+2: **Choose the amount to spend.** Then tap 'Show voucher'.
+<img src="/images/residents/Select%20Vouchers%20English.png" alt="Step 2" style="width:300px !important;" />
 
+3: **Show the QR code to the shop staff.** They will scan it to complete your payment. 
 
-3: **Choose the amount to spend.** Then tap 'Show voucher'.
-<img src="/iimages/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
-
-4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. 
-
-<img src="/images/Eng_Screengrab%204.png" alt="Step 4" style="width:300px !important;" />
+<img src="/images/residents/2023QR%20page%20English.png" alt="Step 4" style="width:300px !important;" />
 
 Look out for this decal at participating hawkers and heartland merchants!
 
