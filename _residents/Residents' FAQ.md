@@ -301,10 +301,10 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion24">
     <label for="accordion24"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I find out how much value is left for my CDC vouchers?</span></label>
     <div>
-			<p>You may access your voucher link found in the SMS sent by RedeemSG to find out the remaining balance of your CDC Vouchers. The value is shown at the top of the webpage.
+			<p>You may access your voucher link found in the SMS sent by RedeemSG to find out the remaining balance of your CDC Vouchers. The value is shown on the respective tabs.
 			</p>
 						<p>				
-				<img src="/images/residents/how%20much%20value.png" alt="Screenshot of Remaining Value" style="width:300px !important;" />
+				<img src="/images/remaining%20value.png" alt="Screenshot of Remaining Value" style="width:300px !important;" />
 			</p>
     </div>
   </li>
