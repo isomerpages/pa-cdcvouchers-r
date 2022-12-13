@@ -49,17 +49,15 @@ a.bp-button {
 
 ## How to spend your CDC Vouchers 2023
 
-1: **Select which CDC Vouchers you want to use. 
+1: **Select which CDC Vouchers you want to use.** 
 
 <img src="/images/residents/2023Voucher%20view%20landing%20page%20(English).png" alt="Step 1" style="width:300px !important;" />
 
 2: **Log in with Singpass.** Only one household member needs to do this on behalf of the household.
-
 <img src="/images/residents/2023English%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
 
 
-3: **Receive your CDC Voucher link by SMS.** Forward the SMS to share vouchers with household members.  
-
+3: **Choose the amount to spend.** Then tap 'Show voucher'.
 <img src="/iimages/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Step 2" style="width:300px !important;" />
 
 4: **Tap the amount you want to use** and show the QR code to a participating hawker or heartland merchant to scan. 
