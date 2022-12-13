@@ -1,6 +1,6 @@
 ---
 title: CDC பற்றுச்சீட்டுகளைப் பெற்றுக் கொள்ளுங்கள்
-permalink: /residents/how-to-claim-cdc-vouchers-tamil
+permalink: /residents/how-to-claim-cdc-vouchers-tamil/
 description: ""
 third_nav_title: Residents' Guide
 ---
@@ -40,7 +40,7 @@ a.bp-button {
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/YMp3rmAWGcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி
+## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வது எப்படி
 
 
 1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் சென்று</strong> சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் 2022 தேர்ந்தெடுங்கள்.
@@ -57,6 +57,7 @@ a.bp-button {
 
 <img src="/images/residents/Tam_Screengrab%203.png" alt="Step 3" style="width:300px !important;" />
 
+## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பபயன்படுத்துவது எப்படி
 
 4: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
 
