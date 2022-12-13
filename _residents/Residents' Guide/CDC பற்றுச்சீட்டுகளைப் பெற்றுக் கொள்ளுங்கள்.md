@@ -60,7 +60,7 @@ a.bp-button {
 1: **நீங்கள் பயன்படுத்த விரும்பும் பற்றுச்சீட்டுகளைத் தேர்ந்தெடுங்கள்.**<img src="/images/residents/select%20vouchers%20page%20tamil.png" alt="Step 4" style="width:600px !important;" />
 
 
-2: **நீங்கள் செலவு செய்ய விரும்பும் தொகையைத் தேர்ந்தெடுங்கள்.** பிறகு 'பற்றுச்சீட்டைக் காட்டு' என்பதைத் தட்டுங்கள். 
+2: **நீங்கள் செலவு செய்ய விரும்பும் தொகையைத் தேர்ந்தெடுங்கள்.** பிறகு 'பற்றுச்சீட்டைக் காட்டுங்கள்' என்பதைத் தட்டுங்கள். 
 
 <img src="/images/residents/select%20vouchers%20tamil.png" alt="Step 4" style="width:300px !important;" />
 
