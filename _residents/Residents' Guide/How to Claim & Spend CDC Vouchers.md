@@ -37,9 +37,9 @@ a.bp-button {
 
 <img src="/images/residents/2023English%20campaign%20listing%20(Mobile%20Mock)%20(1).png" alt="Step 1" style="width:300px !important;" />
 
-2: **Log in using Singpass.** Only one household member needs to do this on behalf of your household.
+2: **Log in with Singpass.** Only one household member needs to do this on behalf of the household.
 
-<img src="/images/Eng_Screengrab%202.png" alt="Step 1" style="width:300px !important;" />
+<img src="/images/residents/2023English%20campaign%20sign%20up%20(Mobile%20Mock).png" alt="Step 1" style="width:300px !important;" />
 
 
 3: **Receive your CDC Vouchers link by SMS.** Forward the SMS to share vouchers with household members.  
