@@ -18,7 +18,7 @@ CDC Vouchers 2023 are valid till 31 December 2023.
 <tbody>
 <tr>
 <td style="width:125px !important;"><img src="/images/residents/Icon%201.png" alt="No need to download a mobile app" style="width:125px !important;"/></td>
-<td style="vertical-align: middle;"><p><strong>Similar to 2021 and 2022, claim your CDC Vouchers 2023 digitally</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>Claiming your vouchers online remains as easy as before</strong></p></td>
 </tr>
 	<tr>
 <td><img src="/images/residents/Icon%202.png" alt="Claim your digital vouchers easily" style="width:125px !important;"/></td>
