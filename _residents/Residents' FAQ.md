@@ -169,7 +169,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 
 <p>One Time Password will be sent to your registered mobile number.
 	</p>
-<p><img src="/images/residents/Voucher%20SMS.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:auto !important;" />
+<p><img src="/images/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:auto !important;" />
 	</p>
 			<p>Vouchers will be sent to your verified mobile number.</p>
     </div>
@@ -179,8 +179,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I verify that the SMS link I received is a legitimate link?</span></label>
     <div>
       <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher link  starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
-		
-<p><img src="/mages/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:auto !important;" />
+		<p><img src="/images/residents/2023English%20Voucher%20SMS%20(Mobile%20Mock).png" alt="Sample Redeemed Voucher SMS" style="width:169px!important;height:auto !important;" />
 	</p>
 <p>A typical SMS from RedeemSG will look like the screenshot on the above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
     </div>
@@ -286,7 +285,6 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 			<p>When the merchants scan your QR code, they will see a confirmation on their RedeemSG Merchant app which will show that the scanning of your voucher is a success.  At the same time, your QR code will be updated to “Redeemed” status.  Spent vouchers will also be marked as ‘Redeemed’ on your unique voucher link and you can also view your transaction history on the main vouchers landing page.
 			</p>
 				<img src="/images/residents/Voucher%20QR%20redeemed.png" alt="Sample Redeemed Voucher Screens" style="width:300px !important;" /><br>				
-	</p>
     </div>
   </li>
 		<li>
