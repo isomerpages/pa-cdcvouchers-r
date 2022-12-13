@@ -43,7 +43,7 @@ a.bp-button {
 ## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வது எப்படி
 
 
-1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் செல்லுங்கள்</strong> சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் 2023 தேர்ந்தெடுங்கள்.
+1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் செல்லுங்கள்.</strong>
 2023ஆம் ஆண்டுக்கான சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் மீது தட்டுங்கள் 
 <img src="/images/residents/campaign%20listing%20(Mobile%20Mock)%20(Tamil).png" alt="Step 1" style="width:300px !important;" />
 
