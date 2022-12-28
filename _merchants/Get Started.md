@@ -123,6 +123,6 @@ Our step-by-step video and guide are available in the following languages:
 
 
 
-If you have more questions, please refer to the [FAQ](faq).
+If you have more questions, please refer to the [FAQ](/merchants/faq).
 
 [Back to Top](#cdcv_page_top)
