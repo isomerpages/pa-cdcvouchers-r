@@ -1,6 +1,6 @@
 ---
 title: Get Started
-permalink: /merchants/info
+permalink: /merchants/info/
 description: Sign up as participating hawkers and merchants to accept CDC vouchers.
 ---
 <span id="cdcv_page_top"></span>
@@ -117,7 +117,7 @@ Our step-by-step video and guide are available in the following languages:
 <td> Melayu </td><td> <a href="/merchants/merchant-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</a></td>
 </tr>
 <tr>
-<td>தமிழ் </td><td> <a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலிக்கான வழிகாட்டி</td>
+<td>தமிழ் </td><td> <a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலிக்கான வழிகாட்டி</a></td>
 </tr></tbody>
 </table>
 
