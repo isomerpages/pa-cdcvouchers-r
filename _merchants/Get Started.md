@@ -18,7 +18,7 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 	</tr>
 		<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/no-commission.png" alt="No Commisions Or Fees icon" style="width:120px !important;" /></td>
-		<td style="vertical-align: middle;"><p><strong>No Commisions Or Fees</strong></p></td>
+		<td style="vertical-align: middle;"><p><strong>No Fees or Commissions</strong></p></td>
 	</tr>
 	<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:120px !important;" /></td>
