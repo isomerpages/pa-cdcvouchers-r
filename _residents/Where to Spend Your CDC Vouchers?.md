@@ -9,7 +9,7 @@ You may look out for this teal decal at participating hawkers and heartland merc
 
 ![Merchant's Decal](/images/merchants-decal-500.jpg)
 ![](/images/yellow%20decal.jpg)
-## CDC Vouchers Merchants Go Where
+## CDC Vouchers Go Where
 Visit [go.gov.sg/cdcvouchers](https://www.go.gov.sg/cdcvouchers) to search for the nearest participating hawkers and heartland merchants, and participating supermarkets.
 
 
